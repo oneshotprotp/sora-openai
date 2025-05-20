@@ -1,3 +1,6 @@
+
+![1734014053351](https://github.com/user-attachments/assets/5de6eb88-a1a6-4d90-a8c9-35828c8637aa)
+
 # 🌌 Sora OpenAI - AI Video Generation Suite 🎬
 
 **Transform your imagination into stunning videos with just words!**  
